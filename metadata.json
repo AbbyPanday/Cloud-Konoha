@@ -1,0 +1,6 @@
+{
+  "name": "Naruto: Shinobi Odyssey",
+  "description": "Retro 16-bit 2D side-scrolling action platformer featuring 10 canonical boss battles, procedural canvas engine, Web Audio synthesizer, interactive Leaf Village tactical map, mission dispatch, and Ichiraku Ramen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
